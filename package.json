@@ -1,0 +1,22 @@
+{
+  "name": "watering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osirisguitar/watering.git"
+  },
+  "author": "Anders Norrback Bornholm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osirisguitar/watering/issues"
+  },
+  "homepage": "https://github.com/osirisguitar/watering#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
