@@ -1,0 +1,56 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Vardagsrummet"
+    },
+    {
+      "id": 2,
+      "name": "Matsalen"
+    }
+  ],
+  "plants": [
+    {
+      "id": 1,
+      "name": "Murgröna",
+      "waterInterval": 7,
+      "lastWatered": "2017-10-21T19:37:18.569Z",
+      "roomId": 2
+    },
+    {
+      "id": 2,
+      "name": "Murgröna",
+      "waterInterval": 7,
+      "lastWatered": "2017-10-21T19:37:18.570Z",
+      "roomId": 2
+    },
+    {
+      "id": 3,
+      "name": "Murgröna",
+      "waterInterval": 7,
+      "lastWatered": "2017-10-21T19:37:18.570Z",
+      "roomId": 2
+    },
+    {
+      "id": 4,
+      "name": "Murgröna",
+      "waterInterval": 7,
+      "lastWatered": "2017-10-21T19:37:18.571Z",
+      "roomId": 2
+    },
+    {
+      "id": 5,
+      "name": "Kaktus",
+      "waterInterval": 21,
+      "lastWatered": "2017-10-21T19:37:18.571Z",
+      "roomId": 2
+    },
+    {
+      "id": 6,
+      "name": "Apelsinträd",
+      "waterInterval": 7,
+      "lastWatered": "2017-10-21T19:37:23.635Z",
+      "roomId": 1
+    }
+  ]
+}
