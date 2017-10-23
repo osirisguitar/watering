@@ -14,21 +14,21 @@
       "id": 1,
       "name": "Murgröna",
       "waterInterval": 7,
-      "lastWatered": "2017-10-21T19:37:18.569Z",
+      "lastWatered": "2017-10-23T19:12:57.680Z",
       "roomId": 2
     },
     {
       "id": 2,
       "name": "Murgröna",
       "waterInterval": 7,
-      "lastWatered": "2017-10-21T19:37:18.570Z",
+      "lastWatered": "2017-10-23T12:50:23.810Z",
       "roomId": 2
     },
     {
       "id": 3,
       "name": "Murgröna",
       "waterInterval": 7,
-      "lastWatered": "2017-10-21T19:37:18.570Z",
+      "lastWatered": "2017-10-23T12:37:28.163Z",
       "roomId": 2
     },
     {
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "Apelsinträd",
       "waterInterval": 7,
-      "lastWatered": "2017-10-21T19:37:23.635Z",
+      "lastWatered": "2017-10-23T12:37:51.694Z",
       "roomId": 1
     }
   ]
