@@ -2,8 +2,7 @@ const HTMLWebPackPlugin = require('html-webpack-plugin');
 const HTMLWebPackPluginConfig = new HTMLWebPackPlugin({
   template: __dirname + '/lib/frontend/index.html',
   filename: 'index.html',
-  inject: 'body',
-
+  inject: 'body'
 });
 
 module.exports = {
